@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CounterOpgaverSamtidighed/CounterOpgaverSamtidighed.iml" filepath="$PROJECT_DIR$/CounterOpgaverSamtidighed/CounterOpgaverSamtidighed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Database.iml" filepath="$PROJECT_DIR$/Database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeadLockOpgave/DeadLockOpgave.iml" filepath="$PROJECT_DIR$/DeadLockOpgave/DeadLockOpgave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeadLockStackOpgaver/DeadLockStackOpgaver.iml" filepath="$PROJECT_DIR$/DeadLockStackOpgaver/DeadLockStackOpgaver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionSQL Opgavesæt8/ExceptionSQL.iml" filepath="$PROJECT_DIR$/ExceptionSQL Opgavesæt8/ExceptionSQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OS TRAADE/OS TRAADE.iml" filepath="$PROJECT_DIR$/OS TRAADE/OS TRAADE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpgaverDistrubtion/OpgaverDistrubtion.iml" filepath="$PROJECT_DIR$/OpgaverDistrubtion/OpgaverDistrubtion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projekt/Projekt.iml" filepath="$PROJECT_DIR$/Projekt/Projekt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Samtidighed/Samtidighed.iml" filepath="$PROJECT_DIR$/Samtidighed/Samtidighed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadOpgaver2/ThreadOpgaver2.iml" filepath="$PROJECT_DIR$/ThreadOpgaver2/ThreadOpgaver2.iml" />
+    </modules>
+  </component>
+</project>
